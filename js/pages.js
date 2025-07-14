@@ -294,12 +294,6 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-<<<<<<< HEAD
     window.location.href = 'https://go.disruptybr.shop/qtk4thjlw9'
   })
-=======
-    window.location.href = 'https://go.disruptybr.shop/qtk4thjlw9';
-  });
-
->>>>>>> 01854c4b9ba60c3b315b410746f2283e5f4a3b39
 }
