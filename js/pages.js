@@ -100,7 +100,7 @@ const pages = {
       </div>
     </div>
   `,
-  
+
   registration: `
     <div class="registration-page">
       <div class="registration-content">
@@ -158,7 +158,7 @@ const pages = {
       </div>
     </div>
   `,
-  
+
   video: `
   <div class="video-page">
   <div class="video-header">
@@ -222,37 +222,36 @@ const pages = {
     DESBLOQUEAR AGORA
   </button>
 </div>
-  `
-};
+  `,
+}
 
 // Current page state
-let currentPage = null;
+let currentPage = null
 
 // Initialize page navigation
 function initializePages() {
   // Add click handler for withdraw button
-  
 }
 
 // Show specific page
 function showPage(pageName) {
-  const container = document.querySelector('.app-container');
-  
+  const container = document.querySelector('.app-container')
+
   // Save current content if it's the first navigation
   if (!currentPage) {
-    currentPage = container.innerHTML;
+    currentPage = container.innerHTML
   }
-  
+
   // Update container with new page content
-  container.innerHTML = pages[pageName];
-  
+  container.innerHTML = pages[pageName]
+
   // Add page-specific event listeners
   if (pageName === 'withdraw') {
-    setupWithdrawPage();
+    setupWithdrawPage()
   } else if (pageName === 'registration') {
-    setupRegistrationPage();
+    setupRegistrationPage()
   } else if (pageName === 'video') {
-    setupVideoPage();
+    setupVideoPage()
   }
 }
 
@@ -260,36 +259,41 @@ function showPage(pageName) {
 function setupWithdrawPage() {
   // Back button
   document.querySelector('.back-btn').addEventListener('click', () => {
-    const container = document.querySelector('.app-container');
-    container.innerHTML = currentPage;
-    initializePages();
-  });
-  
+    const container = document.querySelector('.app-container')
+    container.innerHTML = currentPage
+    initializePages()
+  })
+
   // Amount selection
-  document.querySelectorAll('.amount-btn').forEach(btn => {
+  document.querySelectorAll('.amount-btn').forEach((btn) => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.amount-btn').forEach(b => b.classList.remove('selected'));
-      btn.classList.add('selected');
-    });
-  });
-  
+      document
+        .querySelectorAll('.amount-btn')
+        .forEach((b) => b.classList.remove('selected'))
+      btn.classList.add('selected')
+    })
+  })
+
   // Submit button
-  document.querySelector('.withdraw-submit-btn').addEventListener('click', () => {
-    showPage('registration');
-  });
+  document
+    .querySelector('.withdraw-submit-btn')
+    .addEventListener('click', () => {
+      showPage('registration')
+    })
 }
 
 // Setup event listeners for registration page
 function setupRegistrationPage() {
-  document.querySelector('.withdraw-submit-btn').addEventListener('click', () => {
-    showPage('video');
-  });
+  document
+    .querySelector('.withdraw-submit-btn')
+    .addEventListener('click', () => {
+      showPage('video')
+    })
 }
 
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://go.goatpayments.com.br/56uyy8utnt';
-  });
-
+    window.location.href = 'https://go.disruptybr.shop/qtk4thjlw9'
+  })
 }
