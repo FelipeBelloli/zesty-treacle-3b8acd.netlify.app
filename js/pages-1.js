@@ -294,6 +294,6 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://go.goatpayments.com.br/56uyy8utnt'
+    window.location.href = 'https://go.disruptybr.shop/qtk4thjlw9'
   })
 }
