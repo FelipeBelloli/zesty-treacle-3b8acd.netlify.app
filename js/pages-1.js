@@ -24,7 +24,7 @@ const pages = {
   top: 90px;
   width: 70px; /* ajuste conforme necessário */
   height: auto;
-" src="coin.png" alt="ícone">
+  src="coin.png" alt="ícone">
     </div>
       
       <div class="last-rewards">
