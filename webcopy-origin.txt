@@ -1,0 +1,68 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLCz7V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLEj6V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLGT9V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\s\poppins\v23\pxiEyp8kv8JHgFVrFJA-1.ttf
+Content Type: font/ttf
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\index-1.htm
+Content Type: text/html
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/css/animations.css
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\css\animations-1.css
+Content Type: text/css
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/css/main.css
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\css\main-1.css
+Content Type: text/css
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/css/modal.css
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\css\modal-1.css
+Content Type: text/css
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/css/pages.css
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\css\pages-1.css
+Content Type: text/css
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/css/quiz.css
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\css\quiz-1.css
+Content Type: text/css
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/js/app.js
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\js\app-1.js
+Content Type: application/javascript
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/js/confetti.js
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\js\confetti-1.js
+Content Type: application/javascript
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/js/pages.js
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\js\pages-1.js
+Content Type: application/javascript
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/js/quiz.js
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\js\quiz-1.js
+Content Type: application/javascript
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/js/rewards.js
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\js\rewards-1.js
+Content Type: application/javascript
+
+Uri: https://zesty-treacle-3b8acd.netlify.app/js/utils.js
+File Name: C:\Downloaded Web Sites\zesty-treacle-3b8acd.netlify.app\js\utils-1.js
+Content Type: application/javascript
+
