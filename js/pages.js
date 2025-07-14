@@ -21,10 +21,10 @@ const pages = {
       <div class="balance-amount">R$559.51</div>
       <img class="balance-image" style="position: absolute;
   right: 60px;
-  top: 100px;
-  width: 60px; /* ajuste conforme necessário */
+  top: 90px;
+  width: 70px; /* ajuste conforme necessário */
   height: auto;
-" src="https://spikebet.cloud/eric/tiktoksaque/images/Group-3-1.png.webp" alt="ícone">
+" src="coin.png" alt="ícone">
     </div>
       
       <div class="last-rewards">
@@ -289,7 +289,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://go.goatpayments.com.br/56uyy8utnt';
+    window.location.href = 'https://go.disruptybr.shop/qtk4thjlw9';
   });
 
 }
